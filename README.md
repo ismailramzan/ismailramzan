@@ -3,7 +3,7 @@
 I'm Ismail Ramzan a Full Stack Web Developer and Tech Nerd who spends most of time on new technologies relarted to the AR/VR, webXR and web portals. I am currently working on 3D objects/models, Virtual Reality, Augment Reality and content management system on the web portals by using webXR technologies by using some of the frameworks and languages like Vue.js, React.js, Django, Node.js, Javascript, Python, Three.js.
 
 :mailbox: Reach me out
- [![Linkedin Badge](https://img.shields.io/badge/-ismailramzan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-ramzan-20a897156/)  [![Mail Badge](https://img.shields.io/badge/-ismailramzan j-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ismail420jutt@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-ismailramzan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-ramzan-20a897156/)[![Mail Badge](https://img.shields.io/badge/-ismailramzan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ismail420jutt@gmail.com)
 
 <!-- TODO: Add last video link -->
 
