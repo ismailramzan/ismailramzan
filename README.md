@@ -25,7 +25,7 @@ I'm Ismail Ramzan a Full Stack Web Developer and Tech Nerd who spends most of ti
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ismailramzan/ismailramzan/blob/master/Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/ismailramzan/ismailramzan/blob/main/Ismail_Resume.pdf)
 - :email: ismail420jutt@gmail.com
 
 
